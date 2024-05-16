@@ -1,0 +1,15 @@
+[2024-05-15 20:54:48] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x00000232105A8D50>],) e {}.Retornou None
+[2024-05-15 20:55:09] Função 'criar_conta' executada com argumentos (1, [<__main__.PessoaFisica object at 0x00000232105A8D50>], []) e {}.Retornou None
+[2024-05-15 20:55:22] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x00000232105A8D50>, <__main__.PessoaFisica object at 0x00000232105A8E50>],) e {}.Retornou None
+[2024-05-15 21:00:08] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x0000018EC6D38D50>],) e {}.Retornou None
+[2024-05-15 21:00:17] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x0000018EC6D38D50>, <__main__.PessoaFisica object at 0x0000018EC6D38E10>],) e {}.Retornou None
+[2024-05-15 21:03:34] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x000001EFA49C8D50>],) e {}.Retornou None
+[2024-05-15 21:07:17] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x00000247DF868D50>],) e {}.Retornou None
+[2024-05-15 22:05:11] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x0000021A9C038D50>],) e {}.Retornou None
+[2024-05-15 22:05:18] Função 'criar_conta' executada com argumentos (1, [<__main__.PessoaFisica object at 0x0000021A9C038D50>], [<ContaCorrente:('0001', '1', 'a')>]) e {}.Retornou None
+[2024-05-15 22:05:28] Função 'deposito' executada com argumentos ([<__main__.PessoaFisica object at 0x0000021A9C038D50>],) e {}.Retornou None
+[2024-05-15 22:05:34] Função 'saque' executada com argumentos ([<__main__.PessoaFisica object at 0x0000021A9C038D50>],) e {}.Retornou None
+[2024-05-15 22:05:40] Função 'saque' executada com argumentos ([<__main__.PessoaFisica object at 0x0000021A9C038D50>],) e {}.Retornou None
+[2024-05-15 22:05:47] Função 'saque' executada com argumentos ([<__main__.PessoaFisica object at 0x0000021A9C038D50>],) e {}.Retornou None
+[2024-05-15 22:10:29] Função 'saque' executada com argumentos ([<__main__.PessoaFisica object at 0x0000021A9C038D50>],) e {}.Retornou None
+[2024-05-15 22:10:35] Função 'saque' executada com argumentos ([<__main__.PessoaFisica object at 0x0000021A9C038D50>],) e {}.Retornou None
